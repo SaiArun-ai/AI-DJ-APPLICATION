@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    font-variant: small-caps;
+    width: 100%;
+    margin-top:-5px;
+    position: ]fixed;
+}
+.note{
+    font-size: 15px;
+    font-variant-alternates: character-variant(cv02);
+    color: black;
+}
+.SpeedDiv{
+    float:left;
+}
+.SpeedDiv img{
+    width:200px;
+    border-radius: 100px;
+}
+.Speed{
+    text-align: center;
+    color: cadetblue;
+    background-color: darkkhaki;
+    border-radius: 60px;
+}
+.VolumeDiv{
+    float:right;
+}
+.VolumeDiv img{
+    width:200px;
+    border-radius: 100px;
+}
+.Volume{
+    text-align: center;
+    color: cadetblue;
+    background-color: darkkhaki;
+    border-radius: 60px;
+}
